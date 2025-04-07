@@ -1,5 +1,0 @@
-git init
-git remote add origin https://github.com/FranzMata/lista-della-spesa.git
-git add .
-git commit -m "Caricamento iniziale dei file"
-git push -u origin main
